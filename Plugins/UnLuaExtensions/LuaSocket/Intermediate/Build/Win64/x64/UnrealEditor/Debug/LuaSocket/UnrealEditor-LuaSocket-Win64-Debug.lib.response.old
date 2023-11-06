@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LuaSocket-Win64-Debug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Debug\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.InclOrderUnreal5_1.h.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\LuaSocketModule.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\auxiliar.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\buffer.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\compat.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\except.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\inet.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\io.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\luasocket.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\mime.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\options.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\select.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\serial.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\tcp.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\timeout.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\udp.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\unix.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\unixdgram.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\unixstream.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\usocket.cpp.obj"
+"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\wsocket.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Debug\Default.rc2.res"
+/OUT:"F:\UE Projects\MyDemo\Plugins\UnLuaExtensions\LuaSocket\Intermediate\Build\Win64\x64\UnrealEditor\Debug\LuaSocket\UnrealEditor-LuaSocket-Win64-Debug.lib"

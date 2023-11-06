@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLua\Source\ThirdParty\Lua\lua-5.4.3\build\CMakeFiles\4a65b5cbdde75e2a5c2cf4a36ca89397\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{258FDDA7-7CEE-392D-B9A8-F9790617466B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
