@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "exKI97zpu8bPt2fN4SOG1Xr6bSCo0kV4QIIfW8+32ULFHTAg9XZnBi9O/nF37T/jLqushKlY7W+jmmtiwIAbcw==",
+  "success": true,
+  "projectFilePath": "F:\\TencentOpenClassHomeworks\\Project\\MyDemo\\Plugins\\UnLua\\Source\\UnLuaDefaultParamCollectorUbtPlugin\\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zyx\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -15,8 +15,16 @@ local M = UnLua.Class()
 -- function M:UserConstructionScript()
 -- end
 
+local Screen = require "Blueprint.Screen"
+
 function M:ReceiveBeginPlay()
-    
+    local msg = [[
+    Hello World!
+
+    —— 本示例来自 "Content/Script/Tutorials/01_HelloWorld.lua"
+    ]]
+    print(msg)
+    Screen.Print(msg)
 end
 
 -- function M:ReceiveEndPlay()
