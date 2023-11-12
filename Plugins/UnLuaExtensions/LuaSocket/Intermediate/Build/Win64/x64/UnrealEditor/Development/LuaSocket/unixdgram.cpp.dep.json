@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\tencentopenclasshomeworks\\project\\mydemo\\plugins\\unluaextensions\\luasocket\\source\\src\\unixdgram.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\tencentopenclasshomeworks\\project\\mydemo\\intermediate\\build\\win64\\x64\\mydemoeditor\\development\\engine\\sharedpch.engine.shadowerrors.noundef.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\tencentopenclasshomeworks\\project\\mydemo\\plugins\\unluaextensions\\luasocket\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\luasocket\\definitions.luasocket.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
