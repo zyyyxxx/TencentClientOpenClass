@@ -20,11 +20,12 @@ local Screen = require "Blueprint.Screen"
 function M:ReceiveBeginPlay()
     local msg = [[
     Hello World!
-
-    —— 本示例来自 "Content/Script/Tutorials/01_HelloWorld.lua"
     ]]
     print(msg)
     Screen.Print(msg)
+    local Widget = UE.UWidgetBlueprintLibrary.Create(self, UE.UClass.Load("/Game/ThirdPerson/UI/BP_HUD.BP_HUD_C"))
+    Widget:AddToViewport()
+
 end
 
 -- function M:ReceiveEndPlay()
