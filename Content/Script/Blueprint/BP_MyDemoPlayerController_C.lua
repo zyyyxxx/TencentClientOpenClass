@@ -23,7 +23,7 @@ function M:ReceiveBeginPlay()
     ]]
     print(msg)
     Screen.Print(msg)
-    local Widget = UE.UWidgetBlueprintLibrary.Create(self, UE.UClass.Load("/Game/ThirdPerson/UI/BP_HUD.BP_HUD_C"))
+    local Widget = UE.UWidgetBlueprintLibrary.Create(self, UE.UClass.Load("/Game/ThirdPerson/UI/WBP_HUD.WBP_HUD_C"))
     Widget:AddToViewport()
 
 end
