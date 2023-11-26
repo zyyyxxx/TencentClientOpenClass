@@ -10,8 +10,8 @@ bool AMyDemoPlayerController::InputTouch(uint32 Handle, ETouchType::Type Type, c
 		PrevTouchLocation = TouchLocation;
 	}else if (Type == ETouchType::Moved)
 	{
-		int DeltaX = (int)(TouchLocation.X - PrevTouchLocation.X);
-		int DeltaY = (int)(TouchLocation.Y - PrevTouchLocation.Y);
+		const int DeltaX = int(TouchLocation.X - PrevTouchLocation.X);
+		const int DeltaY = int(TouchLocation.Y - PrevTouchLocation.Y);
 
 		this->AddYawInput(DeltaX * 0.5f);
 		this->AddPitchInput(DeltaY * 0.5f);
