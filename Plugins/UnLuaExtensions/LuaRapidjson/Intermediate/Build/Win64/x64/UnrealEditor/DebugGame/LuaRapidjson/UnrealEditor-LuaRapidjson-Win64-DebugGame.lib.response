@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LuaRapidjson-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Intermediate\Build\Win64\x64\MyDemoEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.NoUndef.InclOrderUnreal5_1.h.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaRapidjson\LuaRapidjsonModule.cpp.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaRapidjson\Document.cpp.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaRapidjson\rapidjson.cpp.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaRapidjson\Schema.cpp.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaRapidjson\values.cpp.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaRapidjson\Default.rc2.res"
+/OUT:"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaRapidjson\UnrealEditor-LuaRapidjson-Win64-DebugGame.lib"

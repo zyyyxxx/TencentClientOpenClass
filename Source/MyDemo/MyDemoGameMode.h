@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
+#include "MyDemoGameState.h"
 #include "MyDemoGameMode.generated.h"
 
 UCLASS(minimalapi)
@@ -13,6 +14,8 @@ class AMyDemoGameMode : public AGameModeBase
 
 public:
 	AMyDemoGameMode();
+
+	virtual void InitGameState() override;
 };
 
 

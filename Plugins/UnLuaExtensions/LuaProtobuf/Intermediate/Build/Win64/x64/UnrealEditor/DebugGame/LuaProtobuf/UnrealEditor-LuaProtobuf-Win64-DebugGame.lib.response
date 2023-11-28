@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LuaProtobuf-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Intermediate\Build\Win64\x64\MyDemoEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.NoUndef.InclOrderUnreal5_1.h.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaProtobuf\LuaProtobufModule.cpp.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaProtobuf\pb.cpp.obj"
+"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaProtobuf\Default.rc2.res"
+/OUT:"F:\TencentOpenClassHomeworks\Project\MyDemo\Plugins\UnLuaExtensions\LuaProtobuf\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LuaProtobuf\UnrealEditor-LuaProtobuf-Win64-DebugGame.lib"
